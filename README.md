@@ -6,3 +6,7 @@
 
 # css 위치변경
 ![image](https://github.com/1004minjeong/sass/assets/129016976/8c54e40d-b625-4c2b-a9b7-fee01c74b883)
+
+# savePath:null이면 scss파일과 같은위치에 style.css가 생긴다
+![image](https://github.com/1004minjeong/sass/assets/129016976/e9d3fc9d-fa8a-4691-ac42-403f3e0dcf06)
+
