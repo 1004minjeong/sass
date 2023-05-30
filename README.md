@@ -10,3 +10,9 @@
 # savePath:null이면 scss파일과 같은위치에 style.css가 생긴다
 ![image](https://github.com/1004minjeong/sass/assets/129016976/e9d3fc9d-fa8a-4691-ac42-403f3e0dcf06)
 
+# "~"은 style.scss를 의미, "/"는 style.scss가 있는폴더 (css폴더는 scss의 자식폴더가 됨)
+![image](https://github.com/1004minjeong/sass/assets/129016976/05b2a55f-dc41-425d-8183-07a6ecaf88cd)
+
+# ../css는  scss의 상위폴더로 생성
+![image](https://github.com/1004minjeong/sass/assets/129016976/ee01aadd-fb5b-426c-8236-d69b5567aa70)
+
