@@ -16,3 +16,8 @@
 # ../css는  scss의 상위폴더로 생성
 ![image](https://github.com/1004minjeong/sass/assets/129016976/ee01aadd-fb5b-426c-8236-d69b5567aa70)
 
+# 주석처리 방법 (//사용)
+# (//)주석처리방법은 CSS로 컴파일되지 않는다
+# (/* */)주석처리 방법은 css로 컴파일되어 나타남
+![image](https://github.com/1004minjeong/sass/assets/129016976/5f34daca-8b00-4ae1-bd84-7f8ee5f01b12)
+
