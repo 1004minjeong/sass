@@ -4,5 +4,5 @@
 # scss 컴파일
 ![image](https://github.com/1004minjeong/sass/assets/129016976/7a1b7a4c-9e5d-4f65-8963-9d4882de245e)
 
-#css 위치변경
-![image](https://github.com/1004minjeong/sass/assets/129016976/cdadce0a-95d8-4946-acd7-e9cf7f148bf8)
+# css 위치변경
+![image](https://github.com/1004minjeong/sass/assets/129016976/8c54e40d-b625-4c2b-a9b7-fee01c74b883)
