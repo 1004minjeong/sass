@@ -21,3 +21,18 @@
 # (/* */)주석처리 방법은 css로 컴파일되어 나타남
 ![image](https://github.com/1004minjeong/sass/assets/129016976/5f34daca-8b00-4ae1-bd84-7f8ee5f01b12)
 
+# 변수만들기 --> 앞에 $로 시작함,(영문,숫자, - , _ )만 사용할수 있음, 숫자로 시작할수 없음!
+![image](https://github.com/1004minjeong/sass/assets/129016976/0acbdb56-cad8-4343-81c1-4fbeba1c4565)
+
+# 변수과정
+![image](https://github.com/1004minjeong/sass/assets/129016976/3936cf9a-40b8-4ab7-aad6-6d8da56ec307)
+
+
+# wrap안에있는
+![image](https://github.com/1004minjeong/sass/assets/129016976/19c8a825-53bc-4ec4-a6e3-d211e1df2e45)
+
+# Partials(파샬)
+ --관련된것끼리 묶어서 분리/ 소스에 반복되는 부분들을 분리 분산시켜 모듈화(부품화) 시키는 기능
+ 
+ * partials의 파일명은 "_"로 시작하며
+ * 불러들일때는 @import '파일명' 이때 파일명에 "_"는 포함시키지않고, 확장명도 포함시키지 않는다. 
