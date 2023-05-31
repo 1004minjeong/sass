@@ -50,7 +50,7 @@
 # as 뒤에 별명을 붙여서 사용할수 있다.
 ![image](https://github.com/1004minjeong/sass/assets/129016976/126e54c0-0410-452c-93a4-a8957e488977)
 
-# @forward 는 파샬을 묶어줌
+# @forward 는 파샬을 묶어줌 style.scss에서는 _index.scss를 호출하여 사용함
 ![image](https://github.com/1004minjeong/sass/assets/129016976/48c0f882-69c1-4240-a37a-a227a695ff47)
 
 
