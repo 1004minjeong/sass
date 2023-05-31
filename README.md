@@ -40,4 +40,14 @@
 ※ Scss는 "_"로 시작하는 파일은 컴파일 하지 않는다.
 ![image](https://github.com/1004minjeong/sass/assets/129016976/928a1dd8-849f-4280-adad-8c6287da2d63)
 
+# @import -- 변수가 중복될때는 아래의 것이 적용된다.
+![image](https://github.com/1004minjeong/sass/assets/129016976/4667d71f-601b-4822-8e00-5482e9dce3f6)
+
+
+# @use --> 변수이름이 같을때 에러발생, @use를 사용할때는 앞에 파일명을 추가해서 파일명,변수명
+![image](https://github.com/1004minjeong/sass/assets/129016976/1a2c36c9-1fae-45eb-b8c2-f7adedaba988)
+
+
+
+
 
