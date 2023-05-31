@@ -47,6 +47,13 @@
 # @use --> 변수이름이 같을때 에러발생, @use를 사용할때는 앞에 파일명을 추가해서 파일명,변수명
 ![image](https://github.com/1004minjeong/sass/assets/129016976/1a2c36c9-1fae-45eb-b8c2-f7adedaba988)
 
+# as 뒤에 별명을 붙여서 사용할수 있다.
+![image](https://github.com/1004minjeong/sass/assets/129016976/126e54c0-0410-452c-93a4-a8957e488977)
+
+# @forward 는 파샬을 묶어줌
+![image](https://github.com/1004minjeong/sass/assets/129016976/48c0f882-69c1-4240-a37a-a227a695ff47)
+
+
 
 
 
