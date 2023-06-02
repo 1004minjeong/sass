@@ -62,6 +62,11 @@
 # 보간법
 ![image](https://github.com/1004minjeong/sass/assets/129016976/46653fdd-e485-4d5c-83a7-690280ec1f80)
 
+# nasting(네스팅) -- 품다
+
+# 함수
+![image](https://github.com/1004minjeong/sass/assets/129016976/05f036f1-59d7-4620-ad30-02acbd961beb)
+
 
 
 
