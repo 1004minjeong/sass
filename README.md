@@ -66,6 +66,11 @@
 
 # 함수
 ![image](https://github.com/1004minjeong/sass/assets/129016976/05f036f1-59d7-4620-ad30-02acbd961beb)
+![image](https://github.com/1004minjeong/sass/assets/129016976/1f5304fc-0fb5-43df-b9e2-6667b2e9d278)
+
+# extend
+![image](https://github.com/1004minjeong/sass/assets/129016976/057e4c6d-5d03-4758-8c52-690e05e51a52)
+
 
 
 
